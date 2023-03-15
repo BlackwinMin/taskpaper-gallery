@@ -1,4 +1,4 @@
-# Taskpaper Gallery 脚本仓库
+# Taskpaper Gallery 仓库
 
 本仓库及其他自动化工具库主要供本人所发表文章代管源码。
 
